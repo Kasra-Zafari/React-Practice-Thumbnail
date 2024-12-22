@@ -19,6 +19,16 @@ const IMAGE =[
     {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-18.jpg"},
     {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-19.jpg"},
     {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-20.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-21.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-22.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-23.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-24.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-25.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-26.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-27.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-29.jpg"},
+    {"image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-30.jpg"},
 ]
 
 export default IMAGE
