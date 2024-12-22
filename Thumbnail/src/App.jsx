@@ -1,4 +1,4 @@
-import Thumbnail from "./componets/Thumbnail/Thumbnail"
+import Thumbnail from "./componets/Thumbnail/index"
 
 
 function App() {
