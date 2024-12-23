@@ -15,7 +15,7 @@ const Thumbnail = () => {
         <>
             <div className={classes.thumbnailContainer}>
             <div className={classes.cover}>
-                <img src={cover} alt="" />
+                <img src={cover} alt="cover" />
             </div>
 
             <div className={classes.thumbnailList}>
@@ -24,7 +24,7 @@ const Thumbnail = () => {
                     onClick={() => handleCover(imageData.image, index)}
                     key={index}
                     src={imageData.image}
-                    className={index === selectedImg && classes.selected} alt="" />
+                    className={index === selectedImg && classes.selected} alt="thumbnail" />
                 })}
             </div>
             </div>
